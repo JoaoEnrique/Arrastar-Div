@@ -1,0 +1,25 @@
+#meudiv 
+{
+    background-color: gold;
+    width:150px;
+    height:150px;
+    padding:10px;
+    position: relative;
+    cursor: pointer;
+}
+
+body{
+    background-image: url('winux.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 45%;
+    color: dodgerblue;
+    font-size: 20px;
+    font-family: Arial;
+}
